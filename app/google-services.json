@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "313409291405",
+    "firebase_url": "https://mahasiswa-fc61e.firebaseio.com",
+    "project_id": "mahasiswa-fc61e",
+    "storage_bucket": "mahasiswa-fc61e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313409291405:android:6e5272b12c21865f108ec4",
+        "android_client_info": {
+          "package_name": "com.simple.mahasiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313409291405-nfd6cntp09hg11p50gqkp1skm60q0jed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simple.mahasiswa",
+            "certificate_hash": "044ed1ecef648dfc11a8f293cd67df0d29c36e07"
+          }
+        },
+        {
+          "client_id": "313409291405-42ragf9gid8n7gipc53mdtfcmd7n1pgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbcvXshqdNx91F92OjU0iw5RopncOAasQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313409291405-42ragf9gid8n7gipc53mdtfcmd7n1pgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
